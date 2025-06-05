@@ -33,6 +33,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashviChulawala&label=Profile%20Views&color=0e75b6&style=flat" alt="YashviChulawala" />
+</p>
+
+---
+
 > “Learning by doing.” — Always leveling up 🚀
 
 
