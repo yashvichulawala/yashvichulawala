@@ -10,8 +10,8 @@
 ## 💼 About Me
 
 - 🎓 1st-year Computer Engineering student
-- 👩‍💻 Currently learning C and Java
-- 🧱 Familiar with HTML and CSS for web development
+- 👩‍💻 Strong foundation in C and Java
+- 🧱 Comfortable working with HTML and CSS for building responsive web pages
 - 🧠 Exploring programming logic and improving problem-solving skills
 
 ---
